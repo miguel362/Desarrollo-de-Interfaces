@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Ejercicio_3</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="camara.png" />
+    <None Remove="candado.png" />
+    <None Remove="facebook4.png" />
+    <None Remove="google.png" />
+    <None Remove="infinito.PNG" />
+    <None Remove="or.PNG" />
+    <None Remove="trafico2.jfif" />
+    <None Remove="twiter3.png" />
+    <None Remove="usuario.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.9" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+    <PackageReference Include="MaterialDesignColors" Version="2.0.9" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="imagenes\camara.png" />
+    <Resource Include="imagenes\candado.png" />
+    <Resource Include="imagenes\google.png" />
+    <Resource Include="imagenes\facebook.png" />
+    <Resource Include="imagenes\infinito.PNG" />
+    <Resource Include="imagenes\or.PNG" />
+    <Resource Include="imagenes\twiter.png" />
+    <Resource Include="imagenes\usuario.png" />
+    <Resource Include="imagenes\trafico.jfif" />
+  </ItemGroup>
+
+</Project>

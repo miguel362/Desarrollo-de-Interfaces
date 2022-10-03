@@ -1,0 +1,81 @@
+﻿<Controls:MetroWindow x:Class="ejer2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ejer2"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="475" Width="650" ShowTitleBar="False" ShowCloseButton="False" ShowMaxRestoreButton="False" ShowMinButton="False">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="GotFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation Storyboard.TargetProperty="Background.Color" To="Gray"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="LostFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation Storyboard.TargetProperty="Background.Color" To="#333333"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="portatil" Source="imagenes/portatil.jfif" Stretch="Fill"></Image>
+        <Image HorizontalAlignment="Left" Height="26" Margin="22,5,0,0" VerticalAlignment="Top" Width="27" Source="imagenes/logo.jfif" OpacityMask="#FFA22626"/>
+        <Label Content="TECH" Foreground="#2c72ad" FontSize="20" FontWeight="Bold" Height="32" VerticalAlignment="Top" Margin="41,0,109,0"/>
+        <Border Grid.Column="1" Background="#FF252525">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"></RowDefinition>
+                    <RowDefinition Height="60"></RowDefinition>
+                    <RowDefinition Height="60"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="90"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Label Content="Login" Foreground="#FFE8DADA" VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="40" Width="auto" FontSize="16" Margin="0,5,135,0"></Label>
+                <Label Grid.Row="1" Content="Email" Foreground="#FFCEC8C8" VerticalAlignment="Top" HorizontalAlignment="Center" Height="22" FontSize="10" Margin="0,5,145,0"/>
+                <TextBox Grid.Row="1" BorderBrush="#252525" FontSize="18" HorizontalAlignment="Center" Margin="19,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="30" Background="#333333" Foreground="#FFF9F4F4">
+                </TextBox>
+                <Label Grid.Row="2" Content="Password" Foreground="#FFC3B9B9" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" FontSize="10" Margin="0,5,130,0"></Label>
+                <TextBox Grid.Row="2" BorderBrush="#252525" FontSize="18" HorizontalAlignment="Center" Margin="19,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="30" Background="#333333" Foreground="#FFF9F4F4"/>
+                <Label Grid.Row="3" Content="Code" Foreground="#FFB9ADAD" VerticalAlignment="Top" HorizontalAlignment="Center" Height="24" FontSize="10" Margin="0,5,145,0"></Label>
+                <TextBox Grid.Row="3" BorderBrush="#252525" FontSize="18" HorizontalAlignment="Center" Margin="19,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="30" Background="#333333" Foreground="#FFF9F4F4"/>
+                <Button Grid.Row="4" Name="boton" Click="boton_click" BorderBrush="#252525" Foreground="White" HorizontalAlignment="Center" Margin="19,10,0,0" VerticalAlignment="Top" Width="190" Height="30">
+                    <Label Content="Login" Foreground="#FFC7BCBC" FontSize="12" Height="30" VerticalAlignment="Center"/>
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="#304fff"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+                <Label Grid.Row="4" Content="Forgot Password?" Foreground="#4174bc" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" FontSize="12" Margin="130,37,119,0" FontWeight="Bold"/>
+                <Canvas Grid.Row="5">
+                    <Label Name="texto" Content="" Margin="150,10,0,0" Foreground="white" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <Label Content="SIGN UP" FontSize="10" Foreground="#2e3f54" Width="60" Height="30" Canvas.Right="20" Canvas.Bottom="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
+                    <Image Width="10" Height="10" Source="imagenes/usuario.png" Canvas.Bottom="14" Canvas.Right="20"/>
+                </Canvas>
+            </Grid>
+
+        </Border>
+        <Label Content="The most powerful &#10;trading platform" Grid.ColumnSpan="2" Foreground="#f2f6f1" HorizontalAlignment="Center" Margin="0,265,270,106" FontWeight="Bold" FontSize="18" />
+    </Grid>
+</Controls:MetroWindow>

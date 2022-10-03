@@ -1,0 +1,186 @@
+﻿<Controls:MetroWindow x:Class="Ejercicio_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_5"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ShowTitleBar="False" ShowCloseButton="False" ShowMaxRestoreButton="False" ShowMinButton="False"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="GotFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation Storyboard.TargetProperty="Background.Color" To="Gray"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="LostFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation Storyboard.TargetProperty="Background.Color" To="#2d438d"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="125"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="75"/>
+        </Grid.RowDefinitions>
+        <Image 
+            Source="imagenes/logo.jfif" 
+            Stretch="Fill">
+            <Image.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop/>
+                </LinearGradientBrush>
+            </Image.OpacityMask>
+        </Image>
+        <Label 
+            Content="Cuestionario para la inclusión de &#10; un deporte en los próximos JJOO &#10;                   Valencia 2026" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            FontSize="30" 
+            FontWeight="Bold"/>
+        <Border 
+            Grid.Row="1" 
+            Background="aqua" 
+            Grid.RowSpan="2">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label 
+                    Content="Datos identificativos" 
+                    Height="30" 
+                    FontSize="22" 
+                    FontWeight="Bold" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Top" 
+                    Margin="0,20,0,0"/>
+                <Label 
+                    Content="Nombre" 
+                    Height="30" 
+                    FontSize="18" 
+                    FontWeight="Bold" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Top" 
+                    Margin="251,72,0,0"/>
+                <TextBox 
+                    HorizontalAlignment="Left" 
+                    Width="190" 
+                    Height="30" 
+                    Background="#2d438d" 
+                    Foreground="white" 
+                    Margin="352,72,0,1"
+                    FontSize="18">
+                </TextBox>
+                <Label 
+                    Grid.Row="1"
+                    Content="Edad" 
+                    Height="30" 
+                    FontSize="18" 
+                    FontWeight="Bold" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Top" 
+                    Margin="263,19,0,0"/>
+                <TextBox 
+                    Grid.Row="1" 
+                    HorizontalAlignment="Left" 
+                    Width="190" 
+                    Height="30" 
+                    Background="#2d438d" 
+                    Foreground="white"
+                    FontSize="18" 
+                    Margin="352,19,0,54">
+                </TextBox>
+                <Label 
+                    Grid.Row="1"
+                    Content="Sexo" 
+                    Height="30" 
+                    FontSize="18" 
+                    FontWeight="Bold" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Top" 
+                    Margin="263,73,0,0"/>
+                <TextBox 
+                    Grid.Row="1" 
+                    HorizontalAlignment="Left" 
+                    Width="190" 
+                    Height="30" 
+                    Background="#2d438d" 
+                    Foreground="white"
+                    FontSize="18" Margin="352,73,0,0">
+                </TextBox>
+            </Grid>
+        </Border>
+        <Button 
+            Grid.Row="2" 
+            materialDesign:ButtonAssist.CornerRadius="25" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Top" 
+            Click="boton_click"
+            Cursor="Hand">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="yellow"></Setter>
+                    <Setter Property="Width" Value="80"></Setter>
+                    <Setter Property="Height" Value="40"></Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Aqua"></Setter>
+                            <Setter Property="Width" Value="100"></Setter>
+                            <Setter Property="Height" Value="50"></Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image 
+                Grid.Row="2" 
+                Width="85" 
+                Height="50"  
+                Source="imagenes/flecha2.jfif" 
+                VerticalAlignment="Center" 
+                HorizontalAlignment="Center" 
+                Stretch="Fill"/>
+        </Button>
+        <Label 
+            Grid.Row="2" 
+            Name="texto" 
+            Content="" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Bottom"/>
+        <Button 
+            Grid.Row="2" 
+            Width="25" 
+            Height="25" 
+            HorizontalAlignment="Right" 
+            VerticalAlignment="Bottom" 
+            Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}" 
+            Margin="0,0,20,20">
+            <Image 
+                Source="imagenes/salir2.jfif" 
+                Width="40" 
+                Height="40" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"/>
+        </Button>
+    </Grid>
+</Controls:MetroWindow>

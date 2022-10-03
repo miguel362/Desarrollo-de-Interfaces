@@ -1,0 +1,13 @@
+El nuevo Trigger que he utilizado es al hacer Click en el botón de siguiente, una vez haces Click 
+te sale un mensaje en un control label que he colocado debajo que indica las veces que has apretado al botón.
+
+Para realizar el Trigger he puesto el atributo Click al botón, el cual realiza una llamada al método boton_click
+que he creado en el archivo MainWindow.xaml.cs.
+
+Aprovecho para comentar que he tenido problemas a la hora de cambiar el color de fondo del botón cauando pasas el 
+ratón por encima, creo que debido al sombreado que aparece cuando lo señalas, por lo que también he añadido al Trigger 
+que el botón se haga más grande.
+
+Por último, en un principio no sabía con que proyecto había que hacer este ejercicio por lo que lo realicé 
+haciendo una copia del ejercicio 2, te lo adjunto como ejercicio 5.2,básicamente hace lo mismo que el ejercicio 5, con el 
+mismo problema cuando pasas el ratón por encima del botón. 

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eF/zCcb+gLCrFo0xPYBwdNwO+53+1XNbV2YyZHfprHDzYpbDlaCtA9V2JoYIXTvqmnhaeGvQvmoYAm0QbIPFLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\Desktop\\Ejercicios Desarrollo de Interfaces\\Ejercicio 5.2\\ejer2\\Ejercicio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

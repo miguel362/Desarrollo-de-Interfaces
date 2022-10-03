@@ -1,0 +1,83 @@
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Ejercicio 4.exe
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Ejercicio 4.deps.json
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Ejercicio 4.runtimeconfig.json
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Ejercicio 4.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Ejercicio 4.pdb
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Animation.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Base.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Controls.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.DesignerSupport.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.DesktopRuntime.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Dialogs.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Input.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Interactivity.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Layout.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Markup.Xaml.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Markup.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.MicroCom.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.OpenGL.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Styling.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Themes.Default.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Themes.Fluent.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Visuals.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Avalonia.Remote.Protocol.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\JetBrains.Annotations.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4_MarkupCompile.cache
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4_MarkupCompile.lref
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\App.baml
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.g.resources
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.AssemblyInfo.cs
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.csproj.CopyComplete
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\refint\Ejercicio 4.dll
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.pdb
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\Ejercicio 4.genruntimeconfig.cache
+C:\Users\migue\Desktop\Ejercicios Desarrollo de Interfaces\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0-windows\ref\Ejercicio 4.dll
